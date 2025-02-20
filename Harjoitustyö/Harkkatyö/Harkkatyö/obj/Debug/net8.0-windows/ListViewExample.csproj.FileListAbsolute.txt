@@ -1,0 +1,67 @@
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.exe
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.deps.json
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.runtimeconfig.json
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.GenerateResource.cache
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfoInputs.cache
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfo.cs
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.CoreCompileInputs.cache
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\refint\ListViewExample.dll
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.genruntimeconfig.cache
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ref\ListViewExample.dll
+C:\Users\lpemake\source\repos\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.ListViewFormExample.resources
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.exe
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.deps.json
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.runtimeconfig.json
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.dll
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.pdb
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.ListViewFormExample.resources
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.GenerateResource.cache
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfoInputs.cache
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfo.cs
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.CoreCompileInputs.cache
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.dll
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\refint\ListViewExample.dll
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.pdb
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.genruntimeconfig.cache
+Y:\Makela_Petteri\TITE22\Teollisen internetin perusteet\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ref\ListViewExample.dll
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.exe
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.deps.json
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.runtimeconfig.json
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.ListViewFormExample.resources
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.GenerateResource.cache
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfoInputs.cache
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfo.cs
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.CoreCompileInputs.cache
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\refint\ListViewExample.dll
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.genruntimeconfig.cache
+C:\Users\mikik\OneDrive - Epedu O365\ListViewExampleSaieRobot\ListViewExample\obj\Debug\net8.0-windows\ref\ListViewExample.dll
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.ListViewFormExample.resources
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.GenerateResource.cache
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfoInputs.cache
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfo.cs
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.CoreCompileInputs.cache
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\refint\ListViewExample.dll
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.exe
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.deps.json
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.runtimeconfig.json
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.genruntimeconfig.cache
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ref\ListViewExample.dll
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.AssemblyReference.cache
+C:\Users\mikik\Desktop\teollinen internet\Harjoitustyö\Harkkatyö\ListViewExample\obj\Debug\net8.0-windows\ListView.ACB270BA.Up2Date
