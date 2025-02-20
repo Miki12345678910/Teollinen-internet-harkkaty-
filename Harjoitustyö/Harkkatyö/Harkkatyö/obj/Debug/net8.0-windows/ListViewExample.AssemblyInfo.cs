@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListViewExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a77bebf879caff5697a1bc2e8496f73bb77f6be")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListViewExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListViewExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
